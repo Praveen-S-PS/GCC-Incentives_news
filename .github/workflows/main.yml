@@ -1,4 +1,4 @@
-name: Daily GCC News
+name: Daily GCC Incentives
 
 on:
   workflow_dispatch:
